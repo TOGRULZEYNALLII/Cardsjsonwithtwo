@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "image": "src/files/images/birinci.png",
+      "title": " Healthy Food",
+
+      "item": "Easy to enjoy, easy to prepare. Healthy as could be. Easy to enjoy, easy to prepare. Healthy as could be. Easy to enjoy, easy to prepare. "
+    },
+    {
+      "id": "2",
+      "image": "src/files/images/ikinci.png",
+      "title": "Healthy Salat",
+      "item": "Easy to enjoy, easy to prepare. Healthy as could be. Easy to enjoy, easy to prepare.  "
+    },
+    {
+      "id": "3",
+      "image": "",
+      "title": "Healthy Food",
+      "item": "Easy to enjoy, easy to prepare. Healthy as could be.  "
+    },
+    {
+      "id": "4",
+      "image": "",
+      "title": "Healthy Food",
+      "item": "Easy to enjoy, easy to prepare. Healthy as could be.  "
+    },
+    {
+      "id": "5",
+      "image": "",
+      "title": "Healthy Food",
+      "item": "Easy to enjoy, easy to prepare. Healthy as could be.  "
+    },
+    {
+      "id": "6",
+      "image": "src/files/images/adamsekli.svg",
+      "name": "Martha Bowner"
+    }
+  ],
+  "lasts": [
+    {
+      "id": "1",
+      "image": "src/files/images/ucunculer.png",
+      "title": "Healthy Food",
+      "item": "Easy to enjoy, easy to prepare. Healthy as could be.  "
+    },
+    {
+      "id": "2",
+      "image": "src/files/images/ucunculer2.png",
+      "title": "Healthy Food",
+      "item": "Easy to enjoy, easy to prepare. Healthy as could be.  "
+    },
+    {
+      "id": "3",
+      "image": "src/files/images/ucunculer3.png",
+      "title": "Healthy Food",
+      "item": "Easy to enjoy, easy to prepare. Healthy as could be.  "
+    }
+  ]
+}

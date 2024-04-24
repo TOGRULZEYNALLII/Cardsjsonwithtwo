@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+
+  color: white;
+  position: relative;
+}
+body {
+  background-color: rgb(193, 44, 193);
+}
+.image-logo {
+  position: absolute;
+  width: 40px;
+  height: 60px;
+  top: 15px;
+  left: 14px;
+  gap: 0px;
+  opacity: 0px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cards {
+  font-size: 100px;
+}
+.container-cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 100px;
+  margin-top: 30px;
+}
+.container-cards-first-cards-title {
+  color: rgb(193, 44, 193);
+  padding: 17px;
+}
+.container-cards-first-cards {
+  background-color: white;
+  width: 300px;
+}
+.container-cards-first-cards-item {
+  color: grey;
+  padding: 17px;
+}
+.container-cards-first-cards-image {
+  width: 300px;
+}
+.container-cards-second-cards-image {
+  width: 150px;
+}
+.container-cards-second-cards {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+}
+.basliq-food {
+  color: gray;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.basliq {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 20px;
+  margin-bottom: 5px;
+}
+.link {
+  color: blue;
+}
+.adamadi {
+  color: orange;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.adam {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
